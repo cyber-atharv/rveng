@@ -11,3 +11,6 @@ All notable changes to rveng will be documented in this file.
 ## [0.1.2] - 2026-05-08
 - feat: build Control Flow Graph (CFG) extraction and basic block visualizer
 
+## [0.1.3] - 2026-05-09
+- feat: implement cross-reference (Xref) mapper and function signature detector
+
