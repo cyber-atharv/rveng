@@ -14,3 +14,6 @@ All notable changes to rveng will be documented in this file.
 ## [0.1.3] - 2026-05-09
 - feat: implement cross-reference (Xref) mapper and function signature detector
 
+## [0.1.4] - 2026-05-11
+- style: develop responsive web dashboard for interactive binary exploration
+
